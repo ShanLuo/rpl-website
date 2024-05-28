@@ -10,7 +10,7 @@ title: Robot Perception Lab
 email: shan.luo@kcl.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of the Robot Perception Lab led by Dr Shan Luo at King's College London.
-baseurl: "shanluo.github.io"
+baseurl: "rpl-website"
 url: "rpl-website"
 
 include:
